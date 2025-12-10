@@ -1,0 +1,13 @@
+{
+  "name": "Wildman Training",
+  "short_name": "WildmanPWA",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1A1A1A",
+  "icons": [{
+    "src": "branding/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sample-module",
+  "title": "Sample Module",
+  "description": "This is a basic training module shell.",
+  "required": true,
+  "version": "1.0.0"
+}
